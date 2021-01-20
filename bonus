@@ -1,0 +1,5 @@
+puppies = ["bulldog", "terrier", "poodle"]
+
+random_numbers = [ 2, "dog", 5, 6, 8]
+
+puts puppies + random_numbers
